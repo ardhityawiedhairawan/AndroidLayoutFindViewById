@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android findViewById</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="copyright">ANDROLITE</string>
+    <string name="linkmarket">https://play.google.com/store/apps/developer?id=AndroLite</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
